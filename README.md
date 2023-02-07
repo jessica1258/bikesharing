@@ -26,17 +26,17 @@ After reviewing a series of data images for the NYC Citi Bike program, , the fol
 ![name](https://github.com/jessica1258/bikesharing/blob/main/User%20Trips%20Weekday.png)
 - A summary of this trend at a higher level show a subltle difference in weekend versus weekday use by gender and subscriber.
 ![name](https://github.com/jessica1258/bikesharing/blob/main/User%20Trips%20by%20Gender%20by%20Weekday.png)
--   
+ 
 
 ### Summary Statistics
-The full set of summary statistics can be found in the following storyboard.
-
+The full summary of findings can be found in the following storyboard.
+![name](https://github.com/jessica1258/bikesharing/blob/main/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
 ## Summary
 ### Overall Findings
-Based on the high level analysis...
+Based on the high level analysis, the majority of bike trips are those by users wtih subscriptions. Those Subscribers are majority Male and primarily use bikes to commute short distances during the week. There is a second group of users who have higher usage on weekends and are less connected to commute patters and checkout bikes for longer durations. 
 
 ### Opportunities for Further Analysis
-Further analysis can be conducted to evaluate additional data points that may support or counter this preliminary analysis.  
-- One
-- Two
+Further analysis can be conducted in two areas that will be critical for investment decisions.  
+- First, population and commuting comparisons should be done between NYC and Des Moines in order to adjust potential trend to account for different patterns in exhisting behavior.
+- Second, origin and destination analysis should be conducted to understand other behavioral patterns 
