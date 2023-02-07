@@ -14,9 +14,9 @@ After reviewing a series of data images for the NYC Citi Bike program, , the fol
 
 - NYC Citi Bike provides services in 4 of the 5 bouroughs in NYC. The majority of checkouts originate in Manhattan.
 ![name](https://github.com/jessica1258/bikesharing/blob/main/Trips%20by%20Origin.png)
-
+- Although they contribute fewer trips, trips for Female customers follow a similar pattern as Male customers. The most common checkout duration is 5 minutes for Males and 6 minutes for Females.
 ![name](https://github.com/jessica1258/bikesharing/blob/main/Checkout%20Time%20by%20Gender.png)
-
+- Subscribers also have a different checkout time. They skew toward shorter bike check outs compared to other customers.
 ![name](https://github.com/jessica1258/bikesharing/blob/main/Checkout%20Time%20for%20User.png)
 - Both Male and Female customers show a similar pattern of Weekday use.
 ![name](https://github.com/jessica1258/bikesharing/blob/main/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
