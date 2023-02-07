@@ -18,13 +18,13 @@ After reviewing a series of data images for the NYC Citi Bike program, , the fol
 ![name](https://github.com/jessica1258/bikesharing/blob/main/Checkout%20Time%20by%20Gender.png)
 
 ![name](https://github.com/jessica1258/bikesharing/blob/main/Checkout%20Time%20for%20User.png)
-
+- Both Male and Female customers show a similar pattern of Weekday use.
 ![name](https://github.com/jessica1258/bikesharing/blob/main/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
-
+- High utilization times tend to correspond to weekday commutes with the highest number of trips falling between 7am and 9am and 5pm and 7pm on weekdays. Wednesday and Thursday evening tend to see lower and higher usage, respectively than other weeknights.
 ![name](https://github.com/jessica1258/bikesharing/blob/main/Trips%20by%20Weekday%20per%20Hour.png)
-
+- The impact of the User type can more clearly be seen using a bar chart. Customers who are not Subscribers show higher use on weekends rather than weekdays in contrast to commute driven behavior of Subscribers.
 ![name](https://github.com/jessica1258/bikesharing/blob/main/User%20Trips%20Weekday.png)
-
+- A summary of this trend at a higher level show a subltle difference in weekend versus weekday use by gender and subscriber.
 ![name](https://github.com/jessica1258/bikesharing/blob/main/User%20Trips%20by%20Gender%20by%20Weekday.png)
 -   
 
