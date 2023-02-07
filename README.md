@@ -16,7 +16,7 @@ After reviewing a series of data images for the NYC Citi Bike program, , the fol
 ![name](https://github.com/jessica1258/bikesharing/blob/main/Trips%20by%20Origin.png)
 - Although they contribute fewer trips, trips for Female customers follow a similar pattern as Male customers. The most common checkout duration is 5 minutes for Males and 6 minutes for Females.
 ![name](https://github.com/jessica1258/bikesharing/blob/main/Checkout%20Time%20by%20Gender.png)
-- Subscribers also have a different checkout time. They skew toward shorter bike check outs compared to other customers.
+- In aggregate, the checkout pattern for all customers is driven by the high number of checkouts by subscribers and follows a similar trend. The most common checkout time is 5 minutes.
 ![name](https://github.com/jessica1258/bikesharing/blob/main/Checkout%20Time%20for%20User.png)
 - Both Male and Female customers show a similar pattern of Weekday use.
 ![name](https://github.com/jessica1258/bikesharing/blob/main/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
