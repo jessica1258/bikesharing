@@ -6,7 +6,7 @@
 The intent of this analysis is to support presentations to potential investors in a bikesharing program in Des Moines. The focus of the presentation is on analysis of data from a current bike sharing service in New York City.
 
 ### Approach
-To conduct this analysis, we used a database from August 2019 for the NYC Citi Bike program and analyzed the data to understand ridership in that program. To ensure the data was usable, it was reformatted to ensure the correct data types were available. Then Tableau Public was used to 
+To conduct this analysis, we used a database from August 2019 for the NYC Citi Bike program and analyzed the data to understand ridership in that program. To ensure the data was usable, it was reformatted to ensure the correct data types were available. Then Tableau Public was used to create visuals to convey key analysis and insights from the data.
 
 ## Results
 ### Key Findings
