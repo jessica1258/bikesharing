@@ -30,7 +30,8 @@ After reviewing a series of data images for the NYC Citi Bike program, , the fol
 
 ### Summary Statistics
 The full summary of findings can be found in the following storyboard.
-![name](https://github.com/jessica1258/bikesharing/blob/main/User%20Trips%20by%20Gender%20by%20Weekday.png)
+
+![name]([https://github.com/jessica1258/bikesharing/blob/main/User%20Trips%20by%20Gender%20by%20Weekday.png](https://public.tableau.com/app/profile/jessica6277/viz/CitiBikeChallenge_16756621327310/NYCCitiBikeCheckouts?publish=yes))
 
 ## Summary
 ### Overall Findings
